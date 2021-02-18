@@ -1,3 +1,1 @@
-# Node JS 디자인 패턴 공부
-
-이 내용은 Node.js 디자인패턴 책을 보고 공부한 것 입니다.
+# Revealing Constructor (공개 생성자 패턴) 	&#128269;
